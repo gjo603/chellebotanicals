@@ -1,0 +1,33 @@
+.large {
+    font-size: 40px !important;
+}
+
+.medium {
+    font-size: 23px !important;
+    padding-left: 20px !important;
+}
+
+.img-sml {
+    max-height: 110px;
+}
+
+.img-sm {
+    max-height: 70px;
+}
+
+.nomargin {
+    margin-bottom: 0px !important;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+.smallish {
+    font-size: 19px;
+}
+
+.padding5 {
+    padding-left: 30px !important;
+    padding-right: 30px !important;
+}
